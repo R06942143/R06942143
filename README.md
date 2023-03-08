@@ -1,6 +1,8 @@
 ### Hi there 👋
 🔭 I’m currently working on [Cooby](https://github.com/cooby-inc) as Backend Engineer.
+
 🌱 I’m currently learning
+
 📫 How to reach me
 <!--
 **R06942143/R06942143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
