@@ -33,7 +33,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/conrad-lan-067267a4/)
 
-⚡ Fun fact:
+
+![R06942143's GitHub stats](https://github-readme-stats.vercel.app/api?username=R06942143&show_icons=true&theme=radical)
 - 
 <!--
 **R06942143/R06942143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
