@@ -1,6 +1,22 @@
 ### Hi there 👋
 🔭 I’m currently working on [Cooby](https://github.com/cooby-inc) as Backend Engineer.
 
+💪 I'm goot at
+- Python
+  - FastAPI/Flask 
+- AWS
+  - ECS
+  - EC2
+  - RDS
+  - DynamoDB
+  - API gateway
+  - ELB
+  - SQS
+  - Lambda
+- Terraform
+- Golang
+  - Gin
+
 🌱 I’m currently learning
 - Infrastructure
   - Terraform
