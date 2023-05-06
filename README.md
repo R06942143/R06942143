@@ -5,12 +5,9 @@
 - Python
   - FastAPI/Flask 
 - AWS
-  - ECS
-  - EC2
-  - RDS
-  - DynamoDB
+  - ECS/EC2/Fargate/ECR/ELB
+  - RDS/DynamoDB
   - API gateway
-  - ELB
   - SQS
   - Lambda
 - Terraform
