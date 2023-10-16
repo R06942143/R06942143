@@ -26,6 +26,9 @@
   - Js
   - English
 
+ 📚 I’m currently reading ...
+ - [Rafal Kuc, Marek Rogozinski - Mastering Elasticsearch (2015, Packt Publishing)](https://www.amazon.com/Mastering-Elasticsearch-Second-Rafal-Kuc/dp/1783553790)
+
 📫 How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/conrad-lan-067267a4/)
