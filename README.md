@@ -1,18 +1,23 @@
 ### Hi there 👋
-🔭 I’m currently working on [Cooby](https://github.com/cooby-inc) as Backend Engineer.
+🔭 I’m currently working on [Cake](https://cake.me) as Senior Backend Engineer.
 
 💪 I'm goot at
 - Python
-  - FastAPI/Flask 
+  - FastAPI/Flask
+- Ruby
+  - Rails
+- Golang
+  - Gin
 - AWS
-  - ECS/EC2/Fargate/ECR/ELB
+  - ECS/EC2/Fargate/ECR/ELB/EKS
   - RDS/DynamoDB
   - API gateway
   - SQS
   - Lambda
 - Terraform
-- Golang
-  - Gin
+- Docker
+- K8s
+
 
 🌱 I’m currently learning
 - Infrastructure
